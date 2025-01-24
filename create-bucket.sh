@@ -14,10 +14,12 @@ if aws s3api head-bucket --bucket "$bucket_name" 2>/dev/null; then
     echo "Bucket $bucket_name already exists."
 else
   # change the line below
-  aws s3 mb "s3://$bucket_name" \
+  aws s3api create-bucket \
+    --bucket $bucket_name \
     --region us-west-2 \
     --profile rylan-sandbox
- 
+    --create-bucket-configuration LocationConstraint=us-west-2
+ echo $bucket_name
 fi
 
 
