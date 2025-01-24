@@ -1,4 +1,4 @@
-## Lab 3
+## Lab 3 (Rylan Raj and Eric Chau)
 
 Documentation for command used for script1:
 
