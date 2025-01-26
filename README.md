@@ -6,7 +6,10 @@ https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/import-ke
 
 
 Documentation for commands used for script2:
-https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/index.html
+
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-bucket.html
+
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-bucket.html
 
 Documentation for commands used for script3:
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/wait/instance-running.html
