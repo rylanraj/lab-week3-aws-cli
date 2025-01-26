@@ -12,6 +12,7 @@ https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-bucket.html
 
 Documentation for commands used for script3:
+
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/wait/instance-running.html
 
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/run-instances.html
