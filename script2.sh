@@ -17,7 +17,7 @@ else
   aws s3api create-bucket \
     --bucket $bucket_name \
     --region us-west-2 \
-    --profile rylan-sandbox
+    --profile rylan-sandbox \
     --create-bucket-configuration LocationConstraint=us-west-2
  echo $bucket_name
 fi

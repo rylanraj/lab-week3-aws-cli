@@ -1,0 +1,6 @@
+Instance ID: i-0bafb8cbcf283e900
+Public IP: 35.95.122.245
+Region: us-west-2
+Key Name: bcitkey.pub
+Security Group ID: sg-02e6c315e118006e6
+Subnet ID: subnet-00160c3c48ebd8160
